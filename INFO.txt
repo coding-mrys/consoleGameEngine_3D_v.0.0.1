@@ -1,0 +1,6 @@
+Backup version: 16.01.2023
+
+your terminal must be set to the smallest possible font size for this project.
+This is how you define the size of the pixels.
+
+If you are a Linux user, you should switch the "cls" with the "clear" command.
